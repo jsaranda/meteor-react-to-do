@@ -1,3 +1,3 @@
 # meteor-react-to-do
 
-to-do project for studying purposes
+to-do project for studying purposes!
